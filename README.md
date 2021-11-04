@@ -2,7 +2,7 @@
 
 ## About 📰
 
-DevQuiz is a quiz with questions and answers about Flutter, developed at Next Level Week 5 provided by <a href="https://www.rocketseat.com.br">RocketSeat<a> 🚀
+DevQuiz is a quiz with questions and answers about Flutter containing difficulty levels and progress bar, developed at Next Level Week 5 provided by <a href="https://www.rocketseat.com.br">RocketSeat<a> 🚀
 
 ------
 
