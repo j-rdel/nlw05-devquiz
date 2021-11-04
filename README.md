@@ -15,7 +15,7 @@ DevQuiz is a quiz with questions and answers about Flutter containing difficulty
 ## How to use 💡
 
 ```bash
-# Clone this repository and execute
+# Clone this repository
 
 # Browse to folder 
 $ cd /path/to/devquiz 
