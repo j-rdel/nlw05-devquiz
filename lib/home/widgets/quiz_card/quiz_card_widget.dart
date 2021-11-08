@@ -18,7 +18,6 @@ class QuizCardWidget extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    print(percent);
     return Container(
       padding: EdgeInsets.all(16),
       decoration: BoxDecoration(
